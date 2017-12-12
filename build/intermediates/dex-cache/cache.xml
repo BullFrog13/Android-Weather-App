@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\eutkachenko\.android\build-cache\23b263a67df7778988968995a07ef08964834ddd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\eutkachenko\Desktop\Android-Weather-App\app\build\intermediates\pre-dexed\debug\classes_bc95c19cf4d83d8c40e99b8f034a4d7d920baa66.jar" />
+    </item>
+
+</items>
